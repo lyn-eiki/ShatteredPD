@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="sonsee1" tvg-logo="https://img1.lookpic.cn/2025/01/13/cc68366a1877314811c0d99abd77fe28fb1f316feeede1c9.png" group-title="sstv",sonsee tv 1
+https://18.svi-studio.com/live/584830114073/800309151021/5.m3u8
+#EXTINF:-1 tvg-id="sonsee3" tvg-logo="https://img1.lookpic.cn/2025/01/13/6ce7534e2678aa89b7797b31ffa13593.JPG__1___SSTV3ca107f27de214340.jpg" group-title="sstv",sonsee tv 3
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+#EXTINF:-1 tvg-id="perfect" tvg-logo="https://img1.lookpic.cn/2025/01/13/c3f10309c32358763097c10d081a1d4767.JPG__1___Perfectf1dd8e4afc03d6dd.jpg" group-title="pandora",pandora perfect
+http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
